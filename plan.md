@@ -3,5 +3,5 @@ The structure for the trial is below:
 ### Hospitals
 The list of hospitals associated with UCL is:
 ### * UCLH
-### * St Mary's Hospital
+### * Whittinghton
 ### * Royal L
